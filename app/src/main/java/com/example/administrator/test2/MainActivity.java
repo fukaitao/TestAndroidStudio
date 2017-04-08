@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //fukaitao add
+        //fukaitao add for test 2017年4月9日00:05:38
     }
 }
