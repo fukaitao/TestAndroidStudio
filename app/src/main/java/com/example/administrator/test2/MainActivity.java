@@ -12,4 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //fukaitao add
         //fukaitao add for test 2017年4月9日00:05:38
     }
+
+    public static String toString() {
+    }
 }
