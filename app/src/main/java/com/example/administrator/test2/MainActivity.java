@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity {
         initView();
     }
 
-    public static String toString() {
+    public  String toString() {
+        return "";
     }
-}
 
     private void initView() {
         fragment1 = new Fragment1();
